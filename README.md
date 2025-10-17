@@ -44,7 +44,7 @@ Consulta_CEP/
 👉 [**Acesse o site online**](https://ninomiquelino.github.io/Consulta_CEP/)  
 Digite um CEP e veja o resultado instantaneamente na interface.
 
-![Demo Consulta_CEP](https://ninomiquelino.github.io/Consulta_CEP/docs/assets/cep-demo.gif)
+![Demo Consulta_CEP](https://ninomiquelino.github.io/Consulta_CEP/docs/cep-demo.gif)
 
 ---
 
