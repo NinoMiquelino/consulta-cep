@@ -1,5 +1,11 @@
 # 🧭 Consulta_CEP
 
+![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-777BB4?logo=php&logoColor=white)
+![Made with JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![License MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Stable-success)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+
 ![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Frontend JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
