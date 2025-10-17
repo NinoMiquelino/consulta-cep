@@ -44,14 +44,14 @@ Consulta_CEP/
 👉 [**Acesse o site online**](https://ninomiquelino.github.io/Consulta_CEP/)  
 Digite um CEP e veja o resultado instantaneamente na interface.
 
-![Demo Consulta_CEP](docs/assets/cep-demo.gif)
+![Demo Consulta_CEP](https://ninomiquelino.github.io/Consulta_CEP/docs/assets/cep-demo.gif)
 
 ---
 
 ### 🔹 Backend (PHP)
 Execute localmente (em XAMPP, WAMP ou Laragon):
 
-http://localhost/Consulta_CEP/backend/consulta_cep.php?cep=01001000
+http://localhost/Consulta_CEP/docs/consulta_cep.php?cep=01001000
 
 Você também pode testar em qualquer serviço de hospedagem PHP gratuita (ex.: 000webhost, InfinityFree).
 
