@@ -1,0 +1,51 @@
+/* style.css */
+
+/* Regras padrão (aplicadas em todas as orientações, mas focadas no retrato e desktop) */
+body {
+    /* min-height: 100vh garante que o corpo ocupe a altura da tela */
+    min-height: 100vh; 
+    /* display: flex, align-items: center e justify-content: center centralizam vertical e horizontalmente */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0; 
+}
+
+/* Centraliza o card e limita a largura */
+.container {
+    max-width: 700px;
+    /* Adiciona padding horizontal (esquerdo/direito) para garantir que não toque nas bordas */
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Ajuste para o ícone de carregamento */
+#loading-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem; 
+}
+
+
+/* ========================================================== */
+/* CORREÇÃO PARA MODO PAISAGEM (LANDSCAPE) EM TELAS PEQUENAS */
+/* ========================================================== */
+@media screen and (max-height: 500px) and (orientation: landscape) {
+    /* Quando a altura é pequena (típico de celular na horizontal), */
+    /* desativamos a centralização vertical rígida */
+    body {
+        /* Remove o alinhamento central forçado */
+        align-items: flex-start; 
+        /* Mantém o padding inferior para que o conteúdo não fique colado na borda */
+        padding-bottom: 30px;
+        /* Garante que o usuário possa rolar se o conteúdo for maior que a tela */
+        min-height: 100%; 
+    }
+    
+    /* Adiciona margem superior para afastar o card da borda superior */
+    .container {
+        margin-top: 10px !important; 
+        margin-bottom: 10px;
+    }
+}
