@@ -1,16 +1,13 @@
 # 🧭 Consulta_CEP
 
-![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-![Frontend JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![License MIT](https://img.shields.io/badge/License-MIT-green)  
-![Status Stable](https://img.shields.io/badge/Status-Stable-success)  
-
-![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)  
-![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/Consulta_CEP?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/Consulta_CEP?style=social)  
-![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/Consulta_CEP)  
-
-![Demo Online](https://img.shields.io/badge/Demo-Online-brightgreen)
+![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Frontend JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![License MIT](https://img.shields.io/badge/License-MIT-green)
+![Status Stable](https://img.shields.io/badge/Status-Stable-success)
+![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
+![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/Consulta_CEP?style=social)
+![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/Consulta_CEP?style=social)
+![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/Consulta_CEP)
 
 Aplicação simples e prática para **consulta de endereços a partir do CEP**, utilizando a API pública [ViaCEP](https://viacep.com.br/).
 
