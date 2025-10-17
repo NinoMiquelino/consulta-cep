@@ -22,3 +22,16 @@ Consulta_CEP/
 ├── .gitignore
 └── LICENSE
 ```
+
+## Visualizar na prática
+
+**Frontend (JavaScript):**
+- Acesse o link: [GitHub Pages](https://seuusuario.github.io/Consulta_CEP/)  
+- Digite um CEP e veja o resultado instantâneo.
+
+**Backend (PHP):**
+- Rode em um servidor local (XAMPP/WAMP/Laragon):
+
+http://localhost/Consulta_CEP/backend/consulta_cep.php?cep=01001000
+
+- Ou use um serviço de hospedagem online gratuito para testar.
