@@ -26,7 +26,7 @@ Permite testar as consultas tanto no **frontend (JavaScript)** quanto no **backe
 ## 🧩 Estrutura do Projeto
 ```
 Consulta_CEP/
-├── docs/
+📁 docs/
 │   ├── index.html
 │   └── consulta_cep.php
 │   └── assets/
