@@ -45,7 +45,7 @@ Consulta_CEP/
 Digite um CEP e veja o resultado instantaneamente na interface.
 
 <p align="center">
-  <img src="docs/assets/img/cep-demo.gif" alt="Demo Consulta CEP" width="400"/>
+  <img src="docs/assets/cep-demo.gif" alt="Demo Consulta CEP" width="400"/>
 </p>
 
 ---
