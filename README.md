@@ -9,6 +9,7 @@ Permite testar consultas tanto no **frontend (JavaScript)** quanto no **backend 
 - Exemplos práticos de uso em **JavaScript (frontend)** e **PHP (backend)**.
 
 ## Estrutura do Projeto
+```
 Consulta_CEP/
 ├── backend/
 │   └── consulta_cep.php
@@ -20,3 +21,4 @@ Consulta_CEP/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+```
