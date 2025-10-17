@@ -48,8 +48,6 @@ Digite um CEP e veja o resultado instantaneamente na interface.
   <img src="docs/cep-demo.gif" alt="Demo Consulta CEP" width="400" height="400"/>
 </p>
 
-![Demo Consulta_CEP](docs/cep-demo.gif)
-
 ---
 
 ### 🔹 Backend (PHP)
