@@ -56,9 +56,10 @@ Você também pode testar em qualquer serviço de hospedagem PHP gratuita (ex.: 
 ---
 
 ## 🧠 Tecnologias utilizadas
-- **HTML5**, **CSS3**, **JavaScript (ES6+)**  
-- **PHP 8.3+**  
-- **API pública ViaCEP**
+- 💻 HTML5 / CSS3
+- ⚡ JavaScript (ES6+)
+- 🐘 PHP 8.3+
+- 🌐 API ViaCEP
 
 ---
 
