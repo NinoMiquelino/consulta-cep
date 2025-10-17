@@ -58,3 +58,14 @@ Você também pode testar em qualquer serviço de hospedagem PHP gratuita (ex.: 
    ```bash
    git clone https://github.com/ninomiquelino/Consulta_CEP.git
 
+## 🧾 Licença
+Distribuído sob a licença **MIT**.  
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 🤝 Contribuições
+Contribuições são sempre bem-vindas!  
+Sinta-se à vontade para abrir uma *issue* com sugestões ou enviar um *pull request* com melhorias.
+
+## 💬 Contato
+📧 [Entre em contato pelo LinkedIn](https://www.linkedin.com/in/onivaldomiquelino/)  
+💻 Desenvolvido por **Onivaldo Miquelino**
