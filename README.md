@@ -79,8 +79,6 @@ Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 ## 🤝 Contribuições
 Contribuições são sempre bem-vindas!  
 Sinta-se à vontade para abrir uma [*issue*](https://github.com/NinoMiquelino/Consulta_CEP/issues) com sugestões ou enviar um [*pull request*](https://github.com/NinoMiquelino/Consulta_CEP/pulls) com melhorias.
-Contribuições são sempre bem-vindas!  
-Sinta-se à vontade para abrir uma *issue* com sugestões ou enviar um *pull request* com melhorias.
 
 ---
 
