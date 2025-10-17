@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
             localidadeInput.value = data.localidade;
             ufInput.value = data.uf;
             
-            document.getElementById('numero').focus(); 
+            /*document.getElementById('numero').focus();*/
 
         } catch (error) {
             console.error('Erro ao buscar o CEP:', error);
