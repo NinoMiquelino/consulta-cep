@@ -25,7 +25,7 @@ Consulta_CEP/
 ## Visualizar na prática
 
 **Frontend (JavaScript):**
-- Acesse o link: [GitHub Pages](https://seuusuario.github.io/Consulta_CEP/)  
+- Acesse o link: [Visite o site](https://ninomiquelino.github.io/Consulta_CEP/)  
 - Digite um CEP e veja o resultado instantâneo.
 
 **Backend (PHP):**
