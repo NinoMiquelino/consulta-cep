@@ -46,6 +46,8 @@ Digite um CEP e veja o resultado instantaneamente na interface.
 
 ![Demo Consulta_CEP](https://ninomiquelino.github.io/Consulta_CEP/docs/cep-demo.gif)
 
+![Teste](https://raw.githubusercontent.com/ninomiquelino/Consulta_CEP/main/docs/cep-demo.gif)
+
 ---
 
 ### 🔹 Backend (PHP)
