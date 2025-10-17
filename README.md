@@ -8,6 +8,8 @@
   <a href="https://github.com/ninomiquelino">@ninomiquelino</a>
 </div>
 
+---
+
 # 🧭 Consulta_CEP
 
 ![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
