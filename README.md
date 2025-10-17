@@ -1,14 +1,20 @@
-# Consulta_CEP
+# 🧭 Consulta_CEP
 
-Aplicação para consulta de endereços a partir do CEP, usando API ViaCEP.
-Permite testar consultas tanto no **frontend (JavaScript)** quanto no **backend (PHP)**, facilitando integração com formulários e sistemas.
+Aplicação simples e prática para **consulta de endereços a partir do CEP**, utilizando a API pública [ViaCEP](https://viacep.com.br/).
 
-## Funcionalidades
-- Consulta de CEP e retorno de logradouro, bairro, cidade, estado e complemento.
-- Validação básica do formato do CEP.
-- Exemplos práticos de uso em **JavaScript (frontend)** e **PHP (backend)**.
+Permite testar as consultas tanto no **frontend (JavaScript)** quanto no **backend (PHP)** — ideal para aprender, integrar ou demonstrar consumo de APIs REST.
 
-## Estrutura do Projeto
+---
+
+## ⚙️ Funcionalidades
+- 🔍 Consulta de CEP e retorno de logradouro, bairro, cidade, estado e complemento.  
+- ✅ Validação básica do formato do CEP.  
+- 💡 Exemplos práticos de uso em **JavaScript (frontend)** e **PHP (backend)**.  
+- 🌐 Integração fácil com formulários e sistemas externos.  
+
+---
+
+## 🧩 Estrutura do Projeto
 ```
 Consulta_CEP/
 ├── docs/
@@ -21,16 +27,34 @@ Consulta_CEP/
 ├── .gitignore
 └── LICENSE
 ```
+---
 
-## Visualizar na prática
+## 🚀 Visualizar na prática
 
-**Frontend (JavaScript):**
-- Acesse o link: [Visite o site](https://ninomiquelino.github.io/Consulta_CEP/)  
-- Digite um CEP e veja o resultado instantâneo.
+### 🔸 Frontend (JavaScript)
+👉 [**Acesse o site online**](https://ninomiquelino.github.io/Consulta_CEP/)  
+Digite um CEP e veja o resultado instantaneamente na interface.
 
-**Backend (PHP):**
-- Rode em um servidor local (XAMPP/WAMP/Laragon):
+---
+
+### 🔹 Backend (PHP)
+Execute localmente (em XAMPP, WAMP ou Laragon):
 
 http://localhost/Consulta_CEP/backend/consulta_cep.php?cep=01001000
 
-- Ou use um serviço de hospedagem online gratuito para testar.
+Você também pode testar em qualquer serviço de hospedagem PHP gratuita (ex.: 000webhost, InfinityFree).
+
+---
+
+## 🧠 Tecnologias utilizadas
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**  
+- **PHP 8.3+**  
+- **API pública ViaCEP**
+
+---
+
+## 📦 Como usar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/ninomiquelino/Consulta_CEP.git
+
