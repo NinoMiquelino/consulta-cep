@@ -81,3 +81,16 @@ Sinta-se à vontade para abrir uma *issue* com sugestões ou enviar um *pull req
 ## 💬 Contato
 📧 [Entre em contato pelo LinkedIn](https://www.linkedin.com/in/onivaldomiquelino/)  
 💻 Desenvolvido por **Onivaldo Miquelino**
+
+---
+
+### 🏷️ Explicando os badges:
+| Badge | Significado |
+|--------|--------------|
+| 🟣 **Made with PHP** | Indica a principal linguagem usada no backend |
+| 🟡 **Frontend JavaScript** | Mostra a stack usada na interface |
+| 🟢 **License MIT** | Mostra a licença do repositório |
+| 💙 **Version 1.0.0** | Versão estável do projeto |
+| ✅ **Status Stable** | Mostra que o projeto está funcionando corretamente |
+
+---
