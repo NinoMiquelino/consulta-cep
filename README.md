@@ -1,3 +1,13 @@
+## 👨‍💻 Autor
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/ninomiquelino" width="100" height="100" style="border-radius: 50%">
+  <br>
+  <strong>Nino Miquelino</strong>
+  <br>
+  <a href="https://github.com/ninomiquelino">@ninomiquelino</a>
+</div>
+
 # 🧭 Consulta_CEP
 
 ![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
