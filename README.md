@@ -11,10 +11,9 @@ Permite testar consultas tanto no **frontend (JavaScript)** quanto no **backend 
 ## Estrutura do Projeto
 ```
 Consulta_CEP/
-├── backend/
+├── docs/
+│   ├── index.html
 │   └── consulta_cep.php
-├── frontend/
-│   ├── index.htm
 │   └── assets/
 │       ├── css/style.css
 │       └── js/script.js
