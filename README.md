@@ -1,19 +1,22 @@
 # 🧭 Consulta_CEP
 
-![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-777BB4?logo=php&logoColor=white)
-![Made with JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![License MIT](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Stable-success)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"/> 
+  <img src="https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/> 
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License"/> 
+  <img src="https://img.shields.io/badge/Status-Stable-success" alt="Status"/>
+</p>
 
-![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Frontend JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![License MIT](https://img.shields.io/badge/License-MIT-green)
-![Status Stable](https://img.shields.io/badge/Status-Stable-success)
-![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
-![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/Consulta_CEP?style=social)
-![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/Consulta_CEP?style=social)
-![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/Consulta_CEP)
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="Version"/> 
+  <img src="https://img.shields.io/github/stars/NinoMiquelino/Consulta_CEP?style=social" alt="Stars"/> 
+  <img src="https://img.shields.io/github/forks/NinoMiquelino/Consulta_CEP?style=social" alt="Forks"/> 
+  <img src="https://img.shields.io/github/issues/NinoMiquelino/Consulta_CEP" alt="Issues"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Demo-Online-brightgreen" alt="Demo Online"/>
+</p>
 
 Aplicação simples e prática para **consulta de endereços a partir do CEP**, utilizando a API pública [ViaCEP](https://viacep.com.br/).
 
