@@ -53,7 +53,7 @@ Consulta_CEP/
 ## 🚀 Visualizar na prática
 
 ### 🔸 Frontend (JavaScript)
-👉 [**Acesse o site online**](https://ninomiquelino.github.io/Consulta_CEP/)  
+👉 [**Acesse o site online**](https://ninomiquelino.github.io/consulta-cep/)  
 Digite um CEP e veja o resultado instantaneamente na interface.
 
 <p align="center">
