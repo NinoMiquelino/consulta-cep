@@ -17,9 +17,9 @@
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status Stable](https://img.shields.io/badge/Status-Stable-success)
 ![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
-![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/Consulta_CEP?style=social)
-![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/Consulta_CEP?style=social)
-![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/Consulta_CEP)
+![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/consulta-cep?style=social)
+![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/consulta-cep?style=social)
+![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/consulta-cep)
 
 Aplicação simples e prática para **consulta de endereços a partir do CEP**, utilizando a API pública [ViaCEP](https://viacep.com.br/).
 
