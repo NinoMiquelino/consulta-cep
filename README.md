@@ -37,7 +37,7 @@ Permite testar as consultas tanto no **frontend (JavaScript)** quanto no **backe
 
 ## 🧩 Estrutura do Projeto
 ```
-Consulta_CEP/
+consulta-cep/
 📁 docs/
 │   ├── index.html
 │   └── consulta_cep.php
@@ -65,7 +65,7 @@ Digite um CEP e veja o resultado instantaneamente na interface.
 ### 🔹 Backend (PHP)
 Execute localmente (em XAMPP, WAMP ou Laragon):
 
-http://localhost/Consulta_CEP/docs/consulta_cep.php?cep=01001000
+http://localhost/consulta-cep/docs/consulta_cep.php?cep=01001000
 
 Você também pode testar em qualquer serviço de hospedagem PHP gratuita (ex.: 000webhost, InfinityFree).
 
@@ -82,7 +82,7 @@ Você também pode testar em qualquer serviço de hospedagem PHP gratuita (ex.: 
 ## 📦 Como usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/ninomiquelino/Consulta_CEP.git
+   git clone https://github.com/ninomiquelino/consulta-cep.git
 
 ---   
 
@@ -94,7 +94,7 @@ Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 🤝 Contribuições
 Contribuições são sempre bem-vindas!  
-Sinta-se à vontade para abrir uma [*issue*](https://github.com/NinoMiquelino/Consulta_CEP/issues) com sugestões ou enviar um [*pull request*](https://github.com/NinoMiquelino/Consulta_CEP/pulls) com melhorias.
+Sinta-se à vontade para abrir uma [*issue*](https://github.com/NinoMiquelino/consulta-cep/issues) com sugestões ou enviar um [*pull request*](https://github.com/NinoMiquelino/consulta-cep/pulls) com melhorias.
 
 ---
 
