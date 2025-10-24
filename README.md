@@ -10,7 +10,7 @@
 
 ---
 
-# 🧭 Consulta CEP
+## 📍 PHP CEP Lookup (ViaCEP API & JSON Parser)
 
 ![Made with PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Frontend JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -20,6 +20,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/consulta-cep?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/consulta-cep?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/consulta-cep)
+
+Aplicação PHP simples e eficiente para consulta de endereços a partir de CEPs, integrando-se à API pública [ViaCEP] (https://viacep.com.br/) e retornando dados estruturados em JSON.
 
 Aplicação simples e prática para **consulta de endereços a partir do CEP**, utilizando a API pública [ViaCEP](https://viacep.com.br/).
 
