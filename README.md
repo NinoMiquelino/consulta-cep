@@ -23,9 +23,7 @@
 
 Aplicação PHP simples e eficiente para consulta de endereços a partir de CEPs, integrando-se à API pública [ViaCEP] (https://viacep.com.br/). e retornando dados estruturados em JSON.
 
-Aplicação simples e prática para **consulta de endereços a partir do CEP**, utilizando a API pública [ViaCEP](https://viacep.com.br/).
-
-Permite testar as consultas tanto no **frontend (JavaScript)** quanto no **backend (PHP)** — ideal para aprender, integrar ou demonstrar consumo de APIs REST.
+Permite testar as consultas tanto o **frontend (JavaScript)** quanto no **backend (PHP)** — ideal para aprender, integrar ou demonstrar consumo de APIs REST.
 
 ---
 
