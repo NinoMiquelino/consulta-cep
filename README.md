@@ -53,7 +53,7 @@ php-cep-lookup/
 ## 🚀 Visualizar na prática
 
 ### 🔸 Frontend (JavaScript)
-👉 [**Acesse o site online**](https://ninomiquelino.github.io/consulta-cep/)  
+👉 [**Acesse o site online**](https://ninomiquelino.github.io/php-cep-lookup/)  
 Digite um CEP e veja o resultado instantaneamente na interface.
 
 <p align="center">
@@ -82,7 +82,7 @@ Você também pode testar em qualquer serviço de hospedagem PHP gratuita (ex.: 
 ## 📦 Como usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/ninomiquelino/consulta-cep.git
+   git clone https://github.com/ninomiquelino/php-cep-lookup.git
 
 ---   
 
