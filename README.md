@@ -21,7 +21,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/consulta-cep?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/consulta-cep)
 
-Aplicação PHP simples e eficiente para consulta de endereços a partir de CEPs, integrando-se à API pública [ViaCEP] (https://viacep.com.br/). e retornando dados estruturados em JSON.
+Aplicação PHP simples e eficiente para consulta de endereços a partir de CEPs, integrando-se à API pública [ViaCEP](https://viacep.com.br/). e retornando dados estruturados em JSON.
 
 Permite testar as consultas tanto o **frontend (JavaScript)** quanto no **backend (PHP)** — ideal para aprender, integrar ou demonstrar consumo de APIs REST.
 
