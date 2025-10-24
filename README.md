@@ -17,9 +17,9 @@
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status Stable](https://img.shields.io/badge/Status-Stable-success)
 ![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
-![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/consulta-cep?style=social)
-![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/consulta-cep?style=social)
-![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/consulta-cep)
+![GitHub stars](https://img.shields.io/github/stars/NinoMiquelino/php-cep-lookup?style=social)
+![GitHub forks](https://img.shields.io/github/forks/NinoMiquelino/php-cep-lookup?style=social)
+![GitHub issues](https://img.shields.io/github/issues/NinoMiquelino/php-cep-lookup)
 
 Aplicação PHP simples e eficiente para consulta de endereços a partir de CEPs, integrando-se à API pública [ViaCEP](https://viacep.com.br/). e retornando dados estruturados em JSON.
 
@@ -37,7 +37,7 @@ Permite testar as consultas tanto o **frontend (JavaScript)** quanto no **backen
 
 ## 🧩 Estrutura do Projeto
 ```
-consulta-cep/
+php-cep-lookup/
 📁 docs/
 │   ├── index.html
 │   └── consulta_cep.php
@@ -94,7 +94,7 @@ Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 🤝 Contribuições
 Contribuições são sempre bem-vindas!  
-Sinta-se à vontade para abrir uma [*issue*](https://github.com/NinoMiquelino/consulta-cep/issues) com sugestões ou enviar um [*pull request*](https://github.com/NinoMiquelino/consulta-cep/pulls) com melhorias.
+Sinta-se à vontade para abrir uma [*issue*](https://github.com/NinoMiquelino/php-cep-lookup/issues) com sugestões ou enviar um [*pull request*](https://github.com/NinoMiquelino/php-cep-lookup/pulls) com melhorias.
 
 ---
 
